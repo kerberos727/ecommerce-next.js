@@ -111,14 +111,6 @@ yarn test-all
 # or if You're using npm you can use npm instead of yarn for all the above ESLint + Prettier + Lint-Staged Check steps
 ```
 
-# Status
-
-Project is: in progress I'm working on it in my free time
-
-# Inspiration
-
-Build By Saddam Arbaa Project inspired by [Amazon] https://www.amazon.com
-
 # Screenshots
 
 ## Signup Page
